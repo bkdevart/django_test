@@ -1,0 +1,7 @@
+# files
+*.sqlite3
+secret_settings.py
+
+# folders
+.vscode/
+__pycache__
